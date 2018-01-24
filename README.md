@@ -9,6 +9,18 @@
 [![license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](LICENSE)
 
 
+## Progress - Repository Updates
+- [x] Create a new repository at GitHub (CasparCG/libas3)
+- [x] Create a README
+- [ ] Find latest version of the AMCP lib for AS3
+- [ ] Find latest version of the CasparCG Framework lib for AS3
+- [ ] Cleanup current libs
+- [ ] Make sure it builds/works
+- [ ] Create a .gitignore
+- [ ] Update README
+- [ ] Create a release
+
+
 ## Getting Started
 To be updated
 
